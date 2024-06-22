@@ -76,9 +76,12 @@
 
 
 
-// Key Points;
+/*
+Key Points;
 
-    keyword     |   Redeclaration   |   Reassignment    |   Scoping     |
-        var     |       Yes         |       Yes         |   function    |
-        let     |       No          |       Yes         |   Block       |
-        const   |       No          |       No          |   Block       |
+keyword     |   Redeclaration   |   Reassignment    |   Scoping     |
+    var     |       Yes         |       Yes         |   function    |
+    let     |       No          |       Yes         |   Block       |
+    const   |       No          |       No          |   Block       |
+
+*/
